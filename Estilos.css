@@ -1,0 +1,46 @@
+ /***
+Autor: Ana Camila Nambo Delhumeau
+Fecha: 27/11/2024
+Lenguaje html
+Fuente: local
+ ***/
+
+
+.Cuerpo00 {
+
+    background-color: rgb(154, 131, 235); /** cambia color del fondo y letras conforme a la tecla**/
+    color: black;
+}
+
+.Cuerpo01 {
+
+    background-color: rgb(231, 164, 206);
+    color: blueviolet;
+
+}
+
+.Cuerpo02 {
+
+    background-color: rgb(76, 0, 255);    
+    color: aqua;
+
+}
+
+.Cuerpo03 {
+
+    background-color: purple;
+    color: rgb(255, 238, 0);
+
+}
+
+.Cuerpo04 {
+
+    background-color: rgb(8, 31, 163);
+    color: brown;
+
+}
+
+/***Ana Camila Nambo Delhumeau ***/
+/***Diseño de la comunicacion grafica ***/
+/***Diseño web ***/
+/*** Rogelio Montelongo Sosa ***/
